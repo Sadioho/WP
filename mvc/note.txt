@@ -1,0 +1,10 @@
+- 3 page
+    + Login
+        *localhost/mvc/mvc/login
+    + Load danh sach nhan vien 
+        *localhost/mvc/mvc/home/add_account
+        *localhost/mvc/mvc/home/edit_account
+        *localhost/mvc/mvc/home/delete_account
+        
+    + Detail nhan vien 
+        *localhost/mvc/mvc/detail_nhanvien
